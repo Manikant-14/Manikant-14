@@ -27,11 +27,11 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  > manikant.profile                                                  ║
 ║                                                                      ║
-║  role        →  AI Engineer  ·  ML Researcher  ·  Data Scientist    ║
-║  education   →  B.Tech CSE (AI & ML)  ·  Sharda University  · 2028  ║
-║  focus       →  End-to-end AI systems: CV · NLP · GenAI · Agents    ║
+║  role        →  AI Engineer  ·  ML Researcher  ·  Data Scientist     ║
+║  education   →  B.Tech CSE (AI & ML)  ·  Sharda University  · 2028   ║
+║  focus       →  End-to-end AI systems: CV · NLP · GenAI · Agents     ║
 ║  edge        →  Models that explain, act & deploy — not just predict ║
-║  status      →  [ OPEN ] AI/ML & Data Science Internships 2026      ║
+║  status      →  [ OPEN ] AI/ML & Data Science Internships 2026       ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
