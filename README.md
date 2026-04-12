@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=230&section=header&text=MANIKANT&fontSize=82&fontColor=e040fb&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Data%20Scientist&descAlignY=66&descColor=b0bec5&descSize=18&stroke=e040fb&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,40:0d1f3c,70:0a1628,100:0a0f1e&height=220&section=header&text=MANIKANT&fontSize=80&fontColor=00c9ff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Data%20Scientist&descAlignY=67&descColor=a0aec0&descSize=17&stroke=00c9ff&strokeWidth=2" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=2800&pause=900&color=E040FB&center=true&vCenter=true&width=650&lines=Deep+Learning+%7C+Computer+Vision+%7C+Generative+AI;RAG+Pipelines+%7C+LLM+Agents+%7C+Agentic+AI;From+Raw+Data+%E2%86%92+Production+Systems;Building+AI+that+explains%2C+acts+%26+deploys+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=680&lines=Deep+Learning+%7C+Computer+Vision+%7C+Generative+AI;RAG+Pipelines+%7C+LLM+Agents+%7C+Agentic+AI;Explainability+%7C+SHAP+%7C+Grad-CAM+%7C+MLOps;Data+%E2%86%92+Insight+%E2%86%92+Deployed+System+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -13,24 +13,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikant14)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikantmgr14@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manikant-14)
-![Profile Views](https://komarev.com/ghpvc/?username=Manikant-14&color=e040fb&style=for-the-badge&label=VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Manikant-14&color=00c9ff&style=for-the-badge&label=VIEWS)
 
 </div>
-
----
-
-<div align="center">
-
-### 🧬 About Me
-
-</div>
-
-| | |
-|---|---|
-| 🎓 | B.Tech CSE (AI & ML) · Sharda University · CGPA ~8.0 · 2028 |
-| 🔬 | Building end-to-end AI systems — CV · NLP · GenAI · Agentic AI |
-| 💡 | Models that don't just predict — they **explain, act & deploy** |
-| 🟢 | **Open to AI/ML & Data Science internships — 2026** |
 
 ---
 
@@ -38,38 +23,64 @@
 
 <div align="center">
 
-### ⚡ Tech Arsenal
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  > manikant.profile                                                  ║
+║                                                                      ║
+║  role        →  AI Engineer  ·  ML Researcher  ·  Data Scientist    ║
+║  education   →  B.Tech CSE (AI & ML)  ·  Sharda University  · 2028  ║
+║  focus       →  End-to-end AI systems: CV · NLP · GenAI · Agents    ║
+║  edge        →  Models that explain, act & deploy — not just predict ║
+║  status      →  [ OPEN ] AI/ML & Data Science Internships 2026      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
 
 **〔 Deep Learning & Computer Vision 〕**
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
 
-**〔 Generative AI · LLMs · RAG 〕**
+**〔 Generative AI · LLMs · RAG · Agents 〕**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-e040fb?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-00c9ff?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS_VectorDB-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**〔 Data Science & Analytics 〕**
+**〔 Data Science · Analytics · BI 〕**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**〔 Deployment & Backend 〕**
+**〔 Deployment · Backend · MLOps 〕**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 </div>
 
@@ -77,87 +88,153 @@
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-### 🚀 Featured Projects
-
-*Real problems. Real data. Real deployment.*
-
-</div>
+<div align="center"><sub><i>Real problems. Real data. Production thinking.</i></sub></div>
 
 <br/>
 
-#### 🏥 AI Dermatology Intelligence System
-> `Deep Learning` `Computer Vision` `Clinical NLP` `Full-Stack AI`
+### 🏥 01 · AI Dermatology Intelligence System
+> `Deep Learning` · `Computer Vision` · `U-Net Segmentation` · `Clinical NLP` · `Grad-CAM` · `SHAP`
 
-Melanoma is deadly when caught late. This end-to-end clinical AI system classifies skin lesions, segments affected regions, scores severity, and generates LLM-powered patient reports — fully automated.
+**The Problem:** Melanoma kills when caught late. Dermatologists are scarce. AI can screen at scale.
 
-| Module | Method | Result |
-|--------|--------|--------|
-| **Classification** | MobileNetV2 · HAM10000 · 7-class | ~77% accuracy |
-| **Segmentation** | U-Net · ISIC 2018 | ~0.86 Dice Score |
-| **Explainability** | Grad-CAM + SHAP | Clinician-interpretable |
-| **Severity Scoring** | ABCD dermoscopy rule | Automated risk triage |
-| **LLM Reports** | BioMistral-7B · 4-bit quantized | Offline PDF generation |
-| **Deployment** | FastAPI · Streamlit · MongoDB | Production-ready |
+**What I Built:** A full-stack clinical AI system — classify lesions, segment affected regions, score severity using the ABCD dermoscopy rule, and auto-generate LLM-powered patient reports. End-to-end. Production-ready.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-e040fb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manikant-14/ai-dermatology-system)
+<br/>
+
+| Module | Architecture | Dataset | Result |
+|--------|-------------|---------|--------|
+| **Classification** | MobileNetV2 fine-tuned | HAM10000 · 7-class | **~77% accuracy** |
+| **Segmentation** | U-Net | ISIC 2018 | **~0.86 Dice Score** |
+| **Explainability** | Grad-CAM + SHAP | — | Clinician-interpretable |
+| **Severity Scoring** | ABCD dermoscopy rule | PH2 + ISIC 2019 | Automated risk triage |
+| **LLM Reports** | BioMistral-7B · 4-bit QLoRA | — | Offline PDF generation |
+| **Deployment** | FastAPI + Streamlit + MongoDB | — | Full-stack, demo-ready |
+
+<br/>
+
+**Stack:**
+`PyTorch` `TensorFlow` `MobileNetV2` `U-Net` `Grad-CAM` `SHAP` `BioMistral-7B` `FastAPI` `Streamlit` `MongoDB`
+
+> 💡 *A system that bridges clinical diagnosis and AI — built for real-world high-volume screening.*
+
+[![View Project](https://img.shields.io/badge/View_Project-0d1f3c?style=for-the-badge&logo=github&logoColor=00c9ff)](https://github.com/Manikant-14/ai-dermatology-system)
 
 ---
 
-#### 🤖 AutoStream — Social-to-Lead AI Agent
-> `Agentic AI` `LangGraph` `RAG` `Intent Detection` `Tool Use`
+### 🤖 02 · AutoStream — Social-to-Lead AI Agent
+> `Agentic AI` · `LangGraph` · `RAG` · `Intent Detection` · `Tool Execution` · `LLM`
 
-A production conversational agent that detects purchase intent, retrieves grounded product knowledge via FAISS RAG, and autonomously captures leads through natural multi-turn dialogue.
+**The Problem:** SaaS companies lose high-intent users who bounce without converting. Manual follow-up is too slow.
+
+**What I Built:** A production conversational agent that classifies intent in real-time, retrieves grounded product knowledge via FAISS RAG, and autonomously captures leads through natural multi-turn dialogue.
+
+<br/>
 
 ```
-User → Intent Router (Groq · Llama-3.3-70B)
-             │
-    ┌────────┼────────────┐
-    ▼        ▼            ▼
-Greeting  Product Q&A  High Intent
-          FAISS RAG    Lead Capture
-          (grounded)   → JSON Storage
+  User Message
+       │
+       ▼
+ ┌─────────────────────────────┐
+ │   Intent Router             │  ← Groq · Llama-3.3-70B · <200ms
+ └──────┬──────────┬───────────┘
+        │          │           │
+        ▼          ▼           ▼
+    Greeting   Product Q&A  High Intent
+               FAISS RAG    Lead Capture
+               (grounded)   name → email → platform
+                                  ↓
+                            leads/leads.json
 ```
 
-[![View Repo](https://img.shields.io/badge/View_Repo-e040fb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manikant-14/social-lead-agent)
+<br/>
+
+**Stack:**
+`LangGraph` `LangChain` `Groq` `Llama-3.3-70B` `FAISS` `HuggingFace Embeddings` `FastAPI` `Streamlit`
+
+> 💡 *Full agentic loop — perceive intent → retrieve context → execute tool → capture lead. Zero hallucination on product facts.*
+
+[![View Project](https://img.shields.io/badge/View_Project-0d1f3c?style=for-the-badge&logo=github&logoColor=00c9ff)](https://github.com/Manikant-14/social-lead-agent)
 
 ---
 
-#### 📊 Student Performance Predictor
-> `Explainable ML` `SHAP` `XGBoost` `Streamlit`
+### 📊 03 · Student Performance Predictor
+> `Explainable ML` · `XGBoost` · `SHAP` · `Feature Engineering` · `Streamlit`
 
-Predicts at-risk students with SHAP force plots per student — educators see *why*, not just *who*. Exports automated PDF reports for each student.
+**The Problem:** Schools flag at-risk students too late. Black-box predictions give no actionable insight.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-e040fb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manikant-14/student-performance-predictor)
+**What I Built:** End-to-end ML pipeline with SHAP force plots per student — educators see *why* a student is flagged, not just *who*. Exports automated PDF reports per student for educator review.
+
+<br/>
+
+| Stage | Detail |
+|-------|--------|
+| **EDA** | Distribution analysis · Correlation heatmaps · Outlier detection |
+| **Feature Engineering** | Encoding · Scaling · Interaction terms |
+| **Model Comparison** | Random Forest vs XGBoost vs Logistic Regression |
+| **Explainability** | SHAP summary plots + per-student force plots |
+| **Output** | Streamlit dashboard + automated PDF per student |
+
+<br/>
+
+**Stack:**
+`Scikit-learn` `XGBoost` `SHAP` `Pandas` `NumPy` `Streamlit` `ReportLab`
+
+[![View Project](https://img.shields.io/badge/View_Project-0d1f3c?style=for-the-badge&logo=github&logoColor=00c9ff)](https://github.com/Manikant-14/student-performance-predictor)
 
 ---
 
-#### 📈 Tourism Recovery Analytics Dashboard
-> `Business Intelligence` `Power BI` `Executive Insights`
+### 📈 04 · Tourism Recovery Analytics Dashboard
+> `Business Intelligence` · `Power BI` · `EDA` · `Executive Insights` · `Scenario Modeling`
 
-20-year growth analysis, COVID impact quantification, and arrivals-vs-revenue paradox — delivered as a 13-slide executive deck + interactive Power BI dashboard with scenario projections.
+**The Problem:** Tourism boards need to understand post-COVID recovery trajectories and identify revenue concentration risks — but data is scattered and unstructured.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-e040fb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manikant-14/tourism-analytics-dashboard)
+**What I Built:** Multi-layer analytics covering 20-year growth trends, COVID impact quantification, arrivals-vs-revenue paradox, market concentration risk (HHI), and scenario-based projections.
+
+**Key Insight:** *High arrivals ≠ high revenue* — structural inefficiencies identified with actionable board-level recommendations.
+
+**Output:** 13-slide executive deck + interactive Power BI dashboard with slicers.
+
+**Stack:**
+`Power BI` `Excel` `Python` `Pandas` `Matplotlib` `Seaborn`
+
+[![View Project](https://img.shields.io/badge/View_Project-0d1f3c?style=for-the-badge&logo=github&logoColor=00c9ff)](https://github.com/Manikant-14/tourism-analytics-dashboard)
 
 <br/>
 
 ---
 
+## 📊 GitHub Activity
+
 <div align="center">
 
-### 🔭 What I'm Working On Right Now
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Manikant-14&show_icons=true&theme=github_dark&hide_border=true&title_color=00c9ff&icon_color=00c9ff&text_color=a0aec0&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikant-14&layout=compact&theme=github_dark&hide_border=true&title_color=00c9ff&text_color=a0aec0&bg_color=0d1117&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Manikant-14&theme=github-dark-blue&hide_border=true&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
 <br/>
 
+---
+
+## 🔭 Currently
+
 <div align="center">
 
-| 🚢 Shipping | AI Dermatology System — multi-dataset generalization (Phase 6+) |
+| | |
 |---|---|
-| 📖 Learning | MLOps · LoRA/QLoRA Fine-tuning · Vector Databases · Multimodal LLMs |
-| 🎯 Targeting | AI/ML & Data Science Internships — 2026 |
+| 🚢 **Shipping** | AI Dermatology System — multi-dataset generalization · Phase 6+ |
+| 📖 **Learning** | MLOps · LoRA/QLoRA Fine-tuning · Vector Databases · Multimodal LLMs |
+| 🧠 **Exploring** | Agentic Workflows · LLM Evaluation · Responsible AI |
+| 🎯 **Targeting** | AI/ML & Data Science Internships — 2026 |
 
 </div>
 
@@ -167,10 +244,10 @@ Predicts at-risk students with SHAP force plots per student — educators see *w
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=130&section=footer&text=Let%27s+Build+Something+Impactful&fontSize=20&fontColor=e040fb&animation=fadeIn&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,40:0d1f3c,70:0a1628,100:0a0f1e&height=130&section=footer&text=Let%27s+Build+Something+Impactful&fontSize=20&fontColor=00c9ff&animation=fadeIn&fontAlignY=70"/>
 
 [![Hire Me](https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikantmgr14@gmail.com)
-[![Connect](https://img.shields.io/badge/Let%27s_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikant14)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikant14)
 
 *"The best model is the one that ships and creates impact."*
 
