@@ -61,11 +61,11 @@ SQL · Business Storytelling
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   B.Tech CSE (AI & ML)  ·  Sharda University  ·  CGPA ~8.0    │
-│   Building end-to-end AI — CV · NLP · GenAI · Agents           │
+│   B.Tech CSE (AI & ML)  ·  Sharda University  ·  CGPA ~8.0      │
+│   Building end-to-end AI — CV · NLP · GenAI · Agents            │ 
 │   Models that explain, act & deploy — not just predict          │
 │                                                                 │
-│   ◉  OPEN TO  →  AI/ML & Data Science Internships 2026         │
+│   ◉  OPEN TO  →  AI/ML & Data Science Internships 2026          │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
