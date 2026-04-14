@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0a00,70:2d1000,100:0d0d0d&height=220&section=header&text=MANIKANT&fontSize=82&fontColor=ff6b35&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Data%20Scientist&descAlignY=67&descColor=a89080&descSize=17&stroke=ff6b35&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2342,40:0d1e35,70:1a5276,100:0a2342&height=220&section=header&text=MANIKANT&fontSize=82&fontColor=02e0b0&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Data%20Scientist&descAlignY=67&descColor=93a8c0&descSize=17&stroke=148f77&strokeWidth=2" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2800&pause=900&color=FF6B35&center=true&vCenter=true&width=680&lines=Deep+Learning+%7C+Computer+Vision+%7C+Generative+AI;RAG+Pipelines+%7C+LLM+Agents+%7C+Agentic+AI;Explainability+%7C+SHAP+%7C+Grad-CAM+%7C+MLOps;Data+%E2%86%92+Insight+%E2%86%92+Deployed+System+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2800&pause=900&color=02E0B0&center=true&vCenter=true&width=700&lines=Deep+Learning+%7C+Computer+Vision+%7C+Generative+AI;RAG+Pipelines+%7C+LLM+Agents+%7C+Agentic+AI;Explainability+%7C+SHAP+%7C+Grad-CAM+%7C+MLOps;Data+%E2%86%92+Insight+%E2%86%92+Deployed+System+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikant14)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikantmgr14@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manikant-14)
-![Profile Views](https://komarev.com/ghpvc/?username=Manikant-14&color=ff6b35&style=for-the-badge&label=VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Manikant-14&color=02e0b0&style=for-the-badge&label=VIEWS)
 
 </div>
 
@@ -26,28 +26,34 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<br/>
 
-### 🤖
-**AI / ML Engineer**
-Deep Learning · Computer Vision
-NLP · Agentic AI Systems
+![](https://img.shields.io/badge/🤖_AI_/_ML_Engineer-0a2342?style=for-the-badge&labelColor=0a2342)
 
+**Deep Learning · Computer Vision**
+**NLP · Agentic AI Systems**
+
+<br/>
 </td>
 <td align="center" width="33%">
+<br/>
 
-### 📊
-**Data Scientist**
-RAG Pipelines · LLM Fine-tuning
-Explainability · Experimentation
+![](https://img.shields.io/badge/📊_Data_Scientist-0d1e35?style=for-the-badge&labelColor=0d1e35)
 
+**RAG Pipelines · LLM Fine-tuning**
+**Explainability · Experimentation**
+
+<br/>
 </td>
 <td align="center" width="33%">
+<br/>
 
-### 📈
-**Data Analyst**
-BI Dashboards · KPI Design
-SQL · Business Storytelling
+![](https://img.shields.io/badge/📈_Data_Analyst-1a5276?style=for-the-badge&labelColor=1a5276)
 
+**BI Dashboards · KPI Design**
+**SQL · Business Storytelling**
+
+<br/>
 </td>
 </tr>
 </table>
@@ -59,15 +65,12 @@ SQL · Business Storytelling
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   B.Tech CSE (AI & ML)  ·  Sharda University  ·  CGPA ~8.0      │
-│   Building end-to-end AI — CV · NLP · GenAI · Agents            │ 
-│   Models that explain, act & deploy — not just predict          │
-│                                                                 │
-│   ◉  OPEN TO  →  AI/ML & Data Science Internships 2026          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│  🎓  B.Tech CSE (AI & ML)  ·  Sharda University  ·  CGPA ~8.0 · 2028 │
+│  🔬  End-to-end AI — Deep Learning · GenAI · Agentic Systems         │
+│  💡  Models that explain, act & deploy — not just predict            │
+│  ◉   OPEN TO  →  AI / ML & Data Science Internships  ·  2026         │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -93,7 +96,7 @@ SQL · Business Storytelling
 **〔 Generative AI · LLMs · RAG · Agents 〕**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-148f77?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS_VectorDB-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white)
@@ -121,7 +124,7 @@ SQL · Business Storytelling
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center"><sub><i>Real problems · Real data · Production thinking</i></sub></div>
 
@@ -132,7 +135,7 @@ SQL · Business Storytelling
 
 **The Problem:** Melanoma kills when caught late. Dermatologists are scarce. AI can screen at scale.
 
-**What I Built:** A full-stack clinical AI system — classify lesions, segment regions, score severity via ABCD dermoscopy rule, and auto-generate LLM-powered patient reports.
+**What I Built:** A full-stack clinical AI system — classify lesions, segment affected regions, score severity via ABCD dermoscopy rule, and auto-generate LLM-powered patient reports.
 
 <br/>
 
@@ -149,7 +152,7 @@ SQL · Business Storytelling
 
 `PyTorch` `TensorFlow` `MobileNetV2` `U-Net` `Grad-CAM` `SHAP` `BioMistral-7B` `FastAPI` `Streamlit` `MongoDB`
 
-[![View Project](https://img.shields.io/badge/View_Project-1a0a00?style=for-the-badge&logo=github&logoColor=ff6b35)](https://github.com/Manikant-14/ai-dermatology-system)
+[![View Project](https://img.shields.io/badge/View_Project-0a2342?style=for-the-badge&logo=github&logoColor=02e0b0)](https://github.com/Manikant-14/ai-dermatology-system)
 
 ---
 
@@ -158,7 +161,7 @@ SQL · Business Storytelling
 
 **The Problem:** SaaS companies lose high-intent users who bounce without converting.
 
-**What I Built:** A production conversational agent — classifies intent in real-time, retrieves grounded product knowledge via FAISS RAG, captures leads autonomously through natural dialogue.
+**What I Built:** A production conversational agent that classifies intent in real-time, retrieves grounded product knowledge via FAISS RAG, and captures leads autonomously through natural multi-turn dialogue.
 
 <br/>
 
@@ -180,16 +183,16 @@ SQL · Business Storytelling
 
 `LangGraph` `LangChain` `Groq` `Llama-3.3-70B` `FAISS` `HuggingFace Embeddings` `FastAPI` `Streamlit`
 
-[![View Project](https://img.shields.io/badge/View_Project-1a0a00?style=for-the-badge&logo=github&logoColor=ff6b35)](https://github.com/Manikant-14/social-lead-agent)
+[![View Project](https://img.shields.io/badge/View_Project-0a2342?style=for-the-badge&logo=github&logoColor=02e0b0)](https://github.com/Manikant-14/social-lead-agent)
 
 ---
 
 ### 📊 03 · Student Performance Predictor
 > `Explainable ML` · `XGBoost` · `SHAP` · `Feature Engineering` · `Streamlit`
 
-**The Problem:** Schools flag at-risk students too late. Black-box predictions give no actionable insight for educators.
+**The Problem:** Schools flag at-risk students too late. Black-box predictions give educators no actionable insight.
 
-**What I Built:** End-to-end ML pipeline with SHAP force plots per student — educators see *why* a student is at risk, not just *who*. Exports automated PDF reports per student.
+**What I Built:** End-to-end ML pipeline with SHAP force plots per student — educators see *why* a student is flagged, not just *who*. Exports automated PDF reports.
 
 <br/>
 
@@ -205,7 +208,7 @@ SQL · Business Storytelling
 
 `Scikit-learn` `XGBoost` `SHAP` `Pandas` `NumPy` `Streamlit` `ReportLab`
 
-[![View Project](https://img.shields.io/badge/View_Project-1a0a00?style=for-the-badge&logo=github&logoColor=ff6b35)](https://github.com/Manikant-14/student-performance-predictor)
+[![View Project](https://img.shields.io/badge/View_Project-0a2342?style=for-the-badge&logo=github&logoColor=02e0b0)](https://github.com/Manikant-14/student-performance-predictor)
 
 <br/>
 
@@ -215,15 +218,20 @@ SQL · Business Storytelling
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Manikant-14&show_icons=true&theme=github_dark&hide_border=true&title_color=ff6b35&icon_color=ffd166&text_color=a89080&bg_color=0d0d0d&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikant-14&layout=compact&theme=github_dark&hide_border=true&title_color=ff6b35&text_color=a89080&bg_color=0d0d0d&langs_count=8"/>
+<a href="https://github.com/Manikant-14">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Manikant-14&show_icons=true&theme=github_dark&hide_border=true&title_color=02e0b0&icon_color=148f77&text_color=93a8c0&bg_color=0a2342&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Manikant's GitHub Stats"/>
+</a>
+<a href="https://github.com/Manikant-14">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikant-14&layout=compact&theme=github_dark&hide_border=true&title_color=02e0b0&text_color=93a8c0&bg_color=0a2342&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manikant-14&theme=github-dark-blue&hide_border=true&ring=ff6b35&fire=ffd166&currStreakLabel=ff6b35&background=0d0d0d)](https://git.io/streak-stats)
+<a href="https://github.com/Manikant-14">
+  <img src="https://streak-stats.demolab.com?user=Manikant-14&theme=github-dark-blue&hide_border=true&ring=02e0b0&fire=148f77&currStreakLabel=02e0b0&background=0a2342&sideLabels=93a8c0&dates=93a8c0" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -250,7 +258,7 @@ SQL · Business Storytelling
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0a00,70:2d1000,100:0d0d0d&height=130&section=footer&text=Let%27s+Build+Something+Impactful&fontSize=20&fontColor=ff6b35&animation=fadeIn&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2342,40:0d1e35,70:1a5276,100:0a2342&height=130&section=footer&text=Let%27s+Build+Something+Impactful&fontSize=20&fontColor=02e0b0&animation=fadeIn&fontAlignY=70"/>
 
 [![Hire Me](https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikantmgr14@gmail.com)
 [![Connect](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikant14)
