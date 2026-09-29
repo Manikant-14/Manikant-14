@@ -66,7 +66,7 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
-│  🎓  B.Tech CSE (AI & ML)  ·  Sharda University  ·  CGPA ~8.0 · 2028 │
+│  🎓  B.Tech CSE (AI & ML)  ·  Sharda University  ·  CGPA ~8.5 · 2028 │
 │  🔬  End-to-end AI — Deep Learning · GenAI · Agentic Systems         │
 │  💡  Models that explain, act & deploy — not just predict            │
 │  ◉   OPEN TO  →  AI / ML & Data Science Internships  ·  2026         │
@@ -188,27 +188,27 @@
 ---
 
 ### 📊 03 · Student Performance Predictor
-> `Explainable ML` · `XGBoost` · `SHAP` · `Feature Engineering` · `Streamlit`
+> `Explainable ML` · `Random Forest` · `XGBoost` · `SHAP` · `Intervention Engine`
 
 **The Problem:** Schools flag at-risk students too late. Black-box predictions give educators no actionable insight.
 
-**What I Built:** End-to-end ML pipeline with SHAP force plots per student — educators see *why* a student is flagged, not just *who*. Exports automated PDF reports.
+**What I Built:** End-to-end ML pipeline predicting pass/fail from behaviour alone (no prior grades), with SHAP explanations per student — educators see *why* a student is flagged, not just *who* — plus personalised intervention suggestions.
 
 <br/>
 
 | Stage | Detail |
 |-------|--------|
-| **EDA** | Distribution analysis · Correlation heatmaps · Outlier detection |
-| **Feature Engineering** | Encoding · Scaling · Interaction terms |
-| **Model Comparison** | Random Forest vs XGBoost vs Logistic Regression |
-| **Explainability** | SHAP summary + per-student force plots |
-| **Output** | Streamlit dashboard + automated PDF per student |
+| **EDA** | Grade distribution · Correlation heatmap · Behaviour vs outcome plots |
+| **Preprocessing** | Categorical encoding · G1/G2/G3 removed to prevent leakage · Stratified split |
+| **Model Comparison** | Random Forest vs XGBoost · GridSearchCV · **0.71 accuracy · 0.81 F1 (RF)** |
+| **Explainability** | SHAP summary + per-student waterfall · Top drivers: failures, going out, absences |
+| **Output** | Rule-based intervention engine mapping SHAP risk factors to actions |
 
 <br/>
 
-`Scikit-learn` `XGBoost` `SHAP` `Pandas` `NumPy` `Streamlit` `ReportLab`
+`Scikit-learn` `XGBoost` `SHAP` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-[![View Project](https://img.shields.io/badge/View_Project-0a2342?style=for-the-badge&logo=github&logoColor=02e0b0)](https://github.com/Manikant-14/student-performance-predictor)
+[![View Project](https://img.shields.io/badge/View_Project-0a2342?style=for-the-badge&logo=github&logoColor=02e0b0)](https://github.com/Manikant-14/Student_Performance_Predictor)
 
 <br/>
 
